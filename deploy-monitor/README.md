@@ -1,6 +1,6 @@
 # Deploy and Monitor
 
-You can deploy IAM to the public cloud, a private cloud on AWS, or a private cloud on Azure. Deployment tools and checklists smooth the process. Monitoring tools and event logs let you track system health and events.
+Deployment tools and checklists smooth the process. Monitoring tools and event logs let you track system health and events.
 
 ## Deployment
 Plan, check, and execute your IAM deployment.
