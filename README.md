@@ -3,19 +3,19 @@
 ## Start Building
 Choose your application type to get started
 
-Native/Mobile App
+[Native/Mobile App](./quickstarts.md#native/mobile-app)
 Mobile or Desktop app that runs natively on a device
 e.g., iOS, Android
 
-Single-Page App
+[Single-Page App](./quickstarts.md#single-page-app)
 JavaScript web app that runs in the browser
 e.g., AngularJS + Node.js, React
 
-Regular Web App
+[Regular Web App](./quickstarts.md#regular-web-app)
 Traditional web app that runs on the server
 e.g., Express.js, ASP.NET
 
-Backend/API
+[Backend/API](./quickstarts.md#backend/api)
 An API or service protected by IAM
 e.g., Express.js API, ASP.NET API
 
