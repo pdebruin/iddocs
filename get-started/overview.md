@@ -9,6 +9,7 @@ Take a look at just a few of IAM's use cases:
 * ...
 
 | Read | To learn |
+| --- | --- |
 | [Dashboard]() | Basic concepts of IAM |
 | [Create tenants]() | How to create tenants, and learn about setting up multiple environments |
 | [Create applications]() | How to set up and configure applications |
