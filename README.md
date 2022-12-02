@@ -1,26 +1,51 @@
-# Microsoft Identity for Auth0 professionals
+# Microsoft Identity for IAM professionals
 
-[Get started](./get-started/)
+## Start Building
+Choose your application type to get started
 
-Learn the basics and begin building your authentication solution
+Native/Mobile App
+Mobile or Desktop app that runs natively on a device
+e.g., iOS, Android
 
-[Authenticate](2-authenticate.md)
+Single-Page App
+JavaScript web app that runs in the browser
+e.g., AngularJS + Node.js, React
 
-Define how your applications and APIs verify the identity of a user or device
-- Provision users
-- Add login
+Regular Web App
+Traditional web app that runs on the server
+e.g., Express.js, ASP.NET
 
-[Manage users](3-manageusers.md)
+Backend/API
+An API or service protected by IAM
+e.g., Express.js API, ASP.NET API
 
-Store and manage custom details about your users
+## Learn about IAM
+Rely on the IAM identity platform to add sophisticated authentication and authorization to your applications. Centralize and manage users from multiple identity providers and give them branded, seamless signup and login experiences. Finely control access with a degree of customization that can accommodate even the most complex security requirements.
 
-Customize
+[Get Started](./get-started/)
 
-- Brand
-- Extend
+Learn the basics and begin building your authentication solution.
 
-Secure
+[Authenticate](./authenticate/)
 
-Deploy and monitor
+Define how your applications and APIs verify the identity of a user or device.
 
-Troubleshoot
+[Manage Users](./manage-users/)
+
+Store and manage custom details about your users.
+
+[Customize](./customize/)
+
+Customize IAM using your own branding and extend our functionality to solve your unique identity needs.
+
+[Secure](./secure/)
+
+Add multi-factor authentication and defend your application from bots, suspicious IPs, and password breaches.
+
+[Deploy and Monitor](./deploy-monitor/)
+
+Deploy IAM for your applications and monitor system health and events.
+
+[Troubleshoot](./troubleshoot/)
+
+Troubleshoot challenges, learn about IAM’s different levels of support, and get help.
