@@ -28,6 +28,9 @@ Control the details of how IAM works with your applications
 - Manage access
 
 ## Plan and design
-- Authentication and authorization flow
-- Architecture scenarios
+
+Learn about flows and architecture so you can make informed decisions about your implementation.
+
+- [Authentication and authorization flows](./authentication-and-authorization-flow/)
+- [Architecture scenarios](./architecture-scenarios/README.md)
 - Professional services
