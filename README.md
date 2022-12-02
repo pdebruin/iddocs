@@ -1,6 +1,6 @@
 # Microsoft Identity for Auth0 professionals
 
-[Get started](1-getstarted.md)
+[Get started](./get-started/)
 
 Learn the basics and begin building your authentication solution
 
