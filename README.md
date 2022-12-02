@@ -1,4 +1,4 @@
-# iddocs
+# Microsoft Identity for Auth0 professionals
 
 [Get started](1-getstarted.md)
 
