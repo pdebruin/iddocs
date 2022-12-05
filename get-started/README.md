@@ -36,6 +36,7 @@ Learn about flows and architecture so you can make informed decisions about your
 
 - [Authentication and authorization flows](./authentication-and-authorization-flow/)
 Explore the different flows of information that drive authentication and authorization
+
 - [Architecture scenarios](./architecture-scenarios/)
 Read about real-world customer implementations
-- [Professional services](./professional-services/)
+

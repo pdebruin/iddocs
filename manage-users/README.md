@@ -16,7 +16,7 @@ API, or the User Import/Export extension.
 
 [User Search]()
 
-Retrieve user profile details using the Auth0 Management API.
+Retrieve user profile details using the Management API.
 
 [Organizations]()
 

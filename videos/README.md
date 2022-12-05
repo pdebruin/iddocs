@@ -18,24 +18,24 @@
 
 ## Get Started Series
 
-Check out the [Get Started](./get-started-series/) series of videos to learn the basics of implementing Auth0 features with your applications. In this video series, you can learn the following:
+Check out the [Get Started](./get-started-series/) series of videos to learn the basics of implementing IAM features with your applications. In this video series, you can learn the following:
 
-    What an Auth0 tenant is
+    What an IAM tenant is
 
-    How Auth0 manages user information
+    How IAM manages user information
 
-    How to move your existing users to an Auth0 user store
+    How to move your existing users to an IAM user store
 
     The difference between authentication, authorization, and access control, and when and why you use each one
 
-    How Auth0's Universal Login feature works
+    How IAM's Universal Login feature works
 
-    How Auth0 authorization works using ID tokens
+    How IAM authorization works using ID tokens
 
     How to get and validate an ID token
 
     How to manage users
 
-    How branding works with Auth0 for signup, login, emails, and error pages
+    How branding works with IAM for signup, login, emails, and error pages
 
     How to configure how your users logout
