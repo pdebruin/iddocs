@@ -8,6 +8,7 @@ IAM offers two ways to implement login authentication for your applications:
 For the vast majority of use cases, we recommend Universal Login. It's safe and easy to implement.
 
 | Read | To learn |
+| --- | --- |
 | [Universal Login]() | What is Universal Login. |
 | Universal vs. Embedded Login | What the differences are between Universal Login and Embedded Login. |
 | Embedded Login | How Embedded Login works. |
@@ -16,8 +17,3 @@ For the vast majority of use cases, we recommend Universal Login. It's safe and 
 | Redirect After Login | How to redirect users to URLs after login. |
 | Logout | How logging out works with IAM. |
 | Adopt OIDC Conformant Auth | What the OIDC-conformant application setting is and its effect on the authentication pipeline. |
-
-| Read | To learn |
-| [Introduction to identity and access management]() | Basic concepts of IAM |
-| [Authentication vs authorization]() | About the differences between authentication and authorization |
-| [Glossary]() | Definitions of various terms related to identity |
