@@ -4,17 +4,12 @@
 
 [Learn about digital identity](./learn-identity-series/) including OAuth2, OpenID Connect, calling APIs, and more! In this video series, we cover:
 
-    The history of modern identity and some of the foundational concepts and terminology
-
-    Protocols, open standards, SSO, JWTs, OAuth2, and OpenID Connect
-
-    Web application authentication
-
-    How to call an API with a web application
-
-    Native applications, including those for mobile, desktop, and command line use
-
-    Single-page applications
+* The history of modern identity and some of the foundational concepts and terminology
+* Protocols, open standards, SSO, JWTs, OAuth2, and OpenID Connect
+* Web application authentication
+* How to call an API with a web application
+* Native applications, including those for mobile, desktop, and command line use
+* Single-page applications
 
 ## Get Started Series
 
